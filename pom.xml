@@ -128,7 +128,7 @@
 				<artifactId>xxl-job-core</artifactId>
 				<version>${xxl-job.version}</version>
 			</dependency>
-			<!--swagger-->
+
 			<dependency>
 				<groupId>io.springfox</groupId>
 				<artifactId>springfox-swagger2</artifactId>
